@@ -5,4 +5,4 @@ Starting with 50 Days 50 Projects, with a Wes Bos Beginner Javascript sprinkled 
 
 
 ## Current Day
-- Day 6
+- Day 7
